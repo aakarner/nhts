@@ -1,4 +1,6 @@
-These scripts download raw data from the National Household Transportation Surveys and National Passenger Travel Surveys and import them to a MonetDB database. Analytical possibilities are illustrated.
+This script downloads raw data from the National Household Transportation Survey for 2009 and imports them into a MonetDB database before creating a complex survey object for later analysis.
 
-These draw heavily from Anthony Damico's scripts that analyze other US government survey data.
+Future versions will include importation of other analysis years and illustrate analytical possibilities.
+
+This work draws heavily from Anthony Damico's scripts that analyze other US government survey data.
 https://github.com/ajdamico/usgsd
