@@ -5,5 +5,4 @@ This script downloads raw data from the National Household Transportation Survey
 
 Future versions will include importation of other analysis years and illustrate analytical possibilities.
 
-This work draws heavily from Anthony Damico's scripts that analyze other US government survey data.
-https://github.com/ajdamico/usgsd
+This work draws heavily from [Anthony Damico's scripts](https://github.com/ajdamico/usgsd) that analyze other US government survey data.
